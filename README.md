@@ -1,10 +1,12 @@
 # Spectral-response-photometric-sensor
 
 Module to process spectral response from photometric sensor.
+Raw data obtained from WebPlotDigitizer software (https://automeris.io/WebPlotDigitizer/) as .csv file
 
 ## Instructions
 
-- 
+- Copy your .csv file from WebPlotDigitizer software inside the files/raw folder
+- Images appear in images folder
 
 ## Install Dependencies
 
