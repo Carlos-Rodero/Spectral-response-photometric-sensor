@@ -15,5 +15,3 @@ Raw data obtained from WebPlotDigitizer software (https://automeris.io/WebPlotDi
 In case you find a "ConnectionRefusedError" when you try the fig.write_image() Plotly function, you have to allow configure orca to send requests to remote server with the following command line:
 
 orca serve -p 32909 --plotly
-
-ESTO ES UN TEST
